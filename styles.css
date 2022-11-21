@@ -19,7 +19,7 @@ nav a {
     text-decoration: none;
     margin: 0 50px;
     color: rgb(24, 22, 22);
-    font-size: 3vh;
+    font-size: 1.5vw;
 }
 nav a:hover {
     text-shadow: 2px 2px 5px  rgb(14, 14, 88);
@@ -39,14 +39,15 @@ img {
     border-radius: 50%;
 }
 #about h1 {
-    font-size: 7vh;
+    font-size: 4vw;
 }
 #about h2 {
-    font-size: 5vh;
+    font-size: 2vw;
 }
 #about p {
     font-style: italic;
-    font-size: 3vh;
+    font-size: 1.5vw;
+    font-weight: lighter;
 
 }
 /* styling the second section */
@@ -61,16 +62,16 @@ img {
     grid-template-columns: auto auto auto;
 }
 #skillset h2 {
-    font-size: 5vh;
+    font-size: 2.5vw;
 }
 #skillset p {
-    font-size: 3.6vh;
+    font-size: 1.6vw;
 }
 #skillset div {
     margin: 0 auto;
 }
 #skillset div h3 {
-    font-size: 5vh;
+    font-size: 2vw;
 }
 progress {
     border-radius: 7px; 
@@ -89,11 +90,11 @@ progress::-webkit-progress-value {
     color: rgb(236, 234, 234);
   }
 #contact h1 {
-    font-size: 8vh;
+    font-size: 3.7vw;
     text-align: center;
 }
 #contact p {
-    font-size: 4vh;
+    font-size: 2vw;
     font-style: oblique;
     font-weight: lighter;
     text-align: center;
@@ -104,7 +105,7 @@ progress::-webkit-progress-value {
     margin-top: 50px;
 }
 .item {
-    font-size: 4vh;
+    font-size: 1.7vw;
 }
 .item a {
     text-decoration: none;
